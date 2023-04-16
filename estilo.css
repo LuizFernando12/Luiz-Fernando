@@ -24,9 +24,10 @@ color:darkblue;
 text-decoration: none; 
 }
 a:hover{
-text-decoration:underline
+text-decoration:underline}
 
-}
+a:visited{
+    color: darkblue;}
 
 #copyright{
     font-style: italic;
